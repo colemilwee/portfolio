@@ -1,0 +1,72 @@
+
+.container {
+  margin: 200px 400px 0px 100px;
+  border: 5px solid  #6bbde6;
+  background-color: lightblue;
+}
+
+header {
+  padding: 20px;
+  font-family: 'Dancing Script', cursive;
+  background-color: #6bbde6;
+  color: lightpink;
+}
+
+header h1 {
+  display: inline-block;
+  color: lightpink;
+  font-size: 48px;
+}
+
+
+
+header nav {
+  padding-top: 15px;
+  margin-right: 20px;
+  float: right;
+  font-family: 'Dancing Script', cursive;
+  font-size: 20px;
+  
+}
+
+header nav ul {
+  list-style-type: none;
+}
+
+header nav ul li {
+  display: inline-block;
+  margin-left: 25px;
+}
+
+.btn {
+  color: pink;
+  background-color: rgb(207, 133, 189);
+
+}
+.bg-light {
+  background-color:#6bbde6!important;
+}
+
+p{
+  font-family:'Dancing Script', cursive;
+  color: darkblue;
+  font-size: 20px;
+}
+
+body  {
+  background-color: pink;
+}
+
+.footer{
+  background-color: #6bbde6;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+
+h1 {
+  font-family: 'Dancing Script', cursive;
+  color:  #4eabda;
+  font-size: 24px;
+}
